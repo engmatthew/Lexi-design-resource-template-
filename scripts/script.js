@@ -4,8 +4,8 @@ var index = 0;
 var tab_name = 'Resources';
 
 // ADD YOUR GOOGLE PAGE ID AND API KEY HERE
-var spreadsheet_id = 'ADD-PAGE-ID-HERE';
-var api_key = 'ADD-API-KEY-HERE';
+var spreadsheet_id = '1sYNDHS04Y62SrGaLTCvBCNEdv0JzBAgpQU-fs9jN_Ns';
+var api_key = 'AIzaSyAS5ckp8siAgCPRwycij0ikTlDsXJwKxVY';
 
 var url = 'https://sheets.googleapis.com/v4/spreadsheets/' + spreadsheet_id + '/values/' + tab_name + '?alt=json&key=' + api_key;
 
